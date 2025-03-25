@@ -1,6 +1,10 @@
 <h1 align=center>My KDE Dotfiles</h1>
 These are the dotfiles that I use in my KDE installation. Currently using the Cappuccin Mocha Lavender color scheme.
 
+<p align="center">
+  <img width="1000" src="https://github.com/Re-Sleeves/My-Dotfiles-KDE/blob/main/Assets/Screenshot%201.png?raw=true">
+</p>
+
 ## Fonts
 [DM Mono](https://fonts.google.com/specimen/DM+Mono) for fixed width/terminal.
 
