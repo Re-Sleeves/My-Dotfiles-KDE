@@ -5,10 +5,16 @@ These are the dotfiles that I use in my KDE installation. Currently using the Ca
   <img width="1000" src="https://github.com/Re-Sleeves/My-Dotfiles-KDE/blob/main/Assets/Screenshot%201.png?raw=true">
 </p>
 
-## Fonts
-[DM Mono](https://fonts.google.com/specimen/DM+Mono) for fixed width/terminal.
+## Hyprland Effects
 
-[Inter](https://fonts.google.com/specimen/Inter) for everything else.
+[Krohnkite](https://github.com/esjeon/krohnkite): A dynamic tiling extension for KWin.
+
+[Geometry Change](https://github.com/peterfajdiga/kwin4_effect_geometry_change): A KWin animation for windows moved or resized by programs or scripts.
+
+## Fonts
+[DM Mono](https://fonts.google.com/specimen/DM+Mono): for fixed width/terminal.
+
+[Inter](https://fonts.google.com/specimen/Inter): for everything else.
 
 <p align="center">
   <img width="450" src="https://github.com/Re-Sleeves/My-Dotfiles-KDE/blob/main/Assets/Font%20Selection.png?raw=true">
