@@ -11,6 +11,13 @@ These are the dotfiles that I use in my KDE installation. Currently using the Ca
 
 [Geometry Change](https://github.com/peterfajdiga/kwin4_effect_geometry_change): A KWin animation for windows moved or resized by programs or scripts.
 
+## Single Line Date and Clock
+
+Make sure to create a clone of the digital clock plasmoid to your local directory to avoid updates. 
+```
+cp -r /usr/share/plasma/plasmoids/org.kde.plasma.digitalclock ~/.local/share/plasma/plasmoids/
+```
+
 ## Fonts
 [DM Mono](https://fonts.google.com/specimen/DM+Mono): for fixed width/terminal.
 
