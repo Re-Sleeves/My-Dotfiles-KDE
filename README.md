@@ -13,18 +13,31 @@ These are the dotfiles that I use in my KDE installation. Currently using the Ca
 
 [Modern Minimal UI](https://store.kde.org/p/2225430): System Sounds
 
+## Panel Setup
+
+<p align="center">
+  <img width="1000" src="https://github.com/Re-Sleeves/My-Dotfiles-KDE/blob/main/Assets/panelsetup.png?raw=true">
+</p>
+
+[Ginti](https://store.kde.org/p/2146553): Desktop Indicator applet that uses Gnome Workspace switcher as an inspiration.
+
+[Window Tittle Fork](https://store.kde.org/p/2147882): Displays name of currently focused application.
+
+[Andromeda Launcher](https://store.kde.org/p/2048016): A simple Launcher for KDE Plasma based on the awesome MMcK Launcher created to fit the Andromeda theme for KDE.
+
+Single Line Date and Clock:
+
+Make sure to create a clone of the digital clock plasmoid to your local directory to avoid updates. 
+```
+cp -r /usr/share/plasma/plasmoids/org.kde.plasma.digitalclock ~/.local/share/plasma/plasmoids/
+```
+
 ## Hyprland Effects
 
 [Krohnkite](https://github.com/esjeon/krohnkite): A dynamic tiling extension for KWin.
 
 [Geometry Change](https://github.com/peterfajdiga/kwin4_effect_geometry_change): A KWin animation for windows moved or resized by programs or scripts.
 
-## Single Line Date and Clock
-
-Make sure to create a clone of the digital clock plasmoid to your local directory to avoid updates. 
-```
-cp -r /usr/share/plasma/plasmoids/org.kde.plasma.digitalclock ~/.local/share/plasma/plasmoids/
-```
 
 ## Fonts
 [DM Mono](https://fonts.google.com/specimen/DM+Mono): for fixed width/terminal.
