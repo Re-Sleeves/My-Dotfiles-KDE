@@ -40,15 +40,20 @@ cp -r /usr/share/plasma/plasmoids/org.kde.plasma.digitalclock ~/.local/share/pla
 
 
 ## Fonts
-[DM Mono](https://fonts.google.com/specimen/DM+Mono): for fixed width/terminal.
-
-[Inter](https://fonts.google.com/specimen/Inter): for everything else.
 
 <p align="center">
   <img width="450" src="https://github.com/Re-Sleeves/My-Dotfiles-KDE/blob/main/Assets/Font%20Selection.png?raw=true">
 </p>
 
+[DM Mono](https://fonts.google.com/specimen/DM+Mono): for fixed width/terminal.
+
+[Inter](https://fonts.google.com/specimen/Inter): for everything else.
+
 ## Zen Mods
+
+<p align="center">
+  <img width="1000" src="https://github.com/Re-Sleeves/My-Dotfiles-KDE/blob/main/Assets/Zen.png?raw=true">
+</p>
 
 [Better Find Bar](https://zen-browser.app/mods/a6335949-4465-4b71-926c-4a52d34bc9c0/): Improves the find bar, making it floating, more responsive, and moving it to the top of the page. 
 
