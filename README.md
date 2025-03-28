@@ -5,6 +5,14 @@ These are the dotfiles that I use in my KDE installation. Currently using the Ca
   <img width="1000" src="https://github.com/Re-Sleeves/My-Dotfiles-KDE/blob/main/Assets/Screenshot%201.png?raw=true">
 </p>
 
+## Themeing
+
+[Cappuccin Mocha](https://github.com/catppuccin/kde): KDE Colorscheme
+
+[Colloid-Light](https://store.kde.org/p/1661983/): Icons
+
+[Modern Minimal UI](https://store.kde.org/p/2225430): System Sounds
+
 ## Hyprland Effects
 
 [Krohnkite](https://github.com/esjeon/krohnkite): A dynamic tiling extension for KWin.
