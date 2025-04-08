@@ -2,10 +2,6 @@
 # /etc/bash.bashrc
 #
 
-if [ "$TERM" = "xterm-kitty" ]; then
-  pokemon-colorscripts -r4 --no-title
-fi
-
 # If not running interactively, don't do anything
 [[ $- != *i* ]] && return
 
