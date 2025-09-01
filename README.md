@@ -1,28 +1,32 @@
 <h1 align=center>My KDE Dotfiles</h1>
-These are the dotfiles that I use in my KDE installation. Currently using the Cappuccin Mocha Lavender color scheme.
+These are the dotfiles that I use in my KDE installations.
 
-<p align="center">
-  <img width="1000" src="https://github.com/Re-Sleeves/My-Dotfiles-KDE/blob/main/Assets/Screenshot%201.png?raw=true">
-</p>
+## Colors & Themes
 
-## Themeing
+KDE Colorscheme: **[Utterly-Nord](https://store.kde.org/p/1905813)**
 
-[Cappuccin Mocha](https://github.com/catppuccin/kde): KDE Colorscheme
+Application Style, Plasma Style, Window Decorations, Icons: **Default (Breeze)**
 
-[Colloid-Light](https://store.kde.org/p/1661983/): Icons
+System Sounds: **[Harmony 2](https://store.kde.org/p/2134858)**
 
-[Modern Minimal UI](https://store.kde.org/p/2225430): System Sounds
+## Fonts
 
-## Panel Setup
+[JetBrainsMono Nerd Font](https://www.programmingfonts.org/#jetbrainsmono): for fixed width/terminal.
 
-<p align="center">
-  <img width="1000" src="https://github.com/Re-Sleeves/My-Dotfiles-KDE/blob/main/Assets/panelsetup.png?raw=true">
-</p>
+[Avenir](https://fontsgeek.com/avenir-font): for everything else.
 
-[Ginti](https://store.kde.org/p/2146553): Desktop Indicator applet that uses Gnome Workspace switcher as an inspiration.
+## Taskbar Setup
 
-[Window Tittle Fork](https://store.kde.org/p/2147882): Displays name of currently focused application.
+**[Window Title](https://github.com/dhruv8sh/plasma6-window-title-applet)**: Displays name of currently focused application.
 
+Settings:
+
+- When title available: **%a**
+- When Application Name and Window Title are same: **%a**
+- When title unavailable: **alexander@"distro name"**
+
+Bold text & No icon
+  
 [Andromeda Launcher](https://store.kde.org/p/2048016): A simple Launcher for KDE Plasma based on the awesome MMcK Launcher created to fit the Andromeda theme for KDE.
 
 Single Line Date and Clock:
@@ -37,17 +41,6 @@ cp -r /usr/share/plasma/plasmoids/org.kde.plasma.digitalclock ~/.local/share/pla
 [Krohnkite](https://github.com/esjeon/krohnkite): A dynamic tiling extension for KWin.
 
 [Geometry Change](https://github.com/peterfajdiga/kwin4_effect_geometry_change): A KWin animation for windows moved or resized by programs or scripts.
-
-
-## Fonts
-
-<p align="center">
-  <img width="450" src="https://github.com/Re-Sleeves/My-Dotfiles-KDE/blob/main/Assets/Font%20Selection.png?raw=true">
-</p>
-
-[DM Mono](https://fonts.google.com/specimen/DM+Mono): for fixed width/terminal.
-
-[Inter](https://fonts.google.com/specimen/Inter): for everything else.
 
 ## Zen Mods
 
